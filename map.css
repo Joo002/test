@@ -1,0 +1,13 @@
+path{
+    fill: #EFE9D9;
+    stroke: #FFFFFF;
+    stroke-width: 3px;
+}
+
+path:hover{
+    fill: orange;
+}
+
+#map .active{
+    fill: #2fa4e7;
+}
